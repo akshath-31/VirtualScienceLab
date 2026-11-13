@@ -2,6 +2,12 @@
 
 A desktop-based interactive 3D Virtual Science Laboratory developed using **Unity 6.5** and **C#**. The project provides a first-person laboratory environment where users can explore scientific equipment, interact with objects, view educational information and perform basic virtual experiments.
 
+## Project Demo
+
+Watch the Virtual Science Lab in action:
+
+https://github.com/user-attachments/assets/75ff7b60-be08-45db-9ac2-cacdc5c4789c
+
 ## Project Overview
 
 Virtual Science Lab demonstrates how a traditional science laboratory can be recreated as an interactive virtual environment.
